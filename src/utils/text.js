@@ -1,0 +1,2 @@
+export const TEXT_CONTENT_ABOUT1 ="We build innovative products & solutions that deliver unparalleled convenience to urban consumers.The best part? Every bit of your work at Swiggy will help elevate the lives of our users across India.";
+export const TEXT_CONTENT_ABOUT2 = "Where Do You Belong?";
